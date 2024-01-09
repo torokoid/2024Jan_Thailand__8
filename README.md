@@ -139,7 +139,7 @@ p.note { display: none; }
 <h2><span class="yellow">チェンライの市場に行きました</span></h2>
 <a href="20240109_005.JPG" data-lightbox="abc"><img src="20240109_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_006.JPG" data-lightbox="abc"><img src="20240109_006.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">笹で包んだもちもちご飯、10個で40バーツ、1個4円です</span></h2>
+<h2><span class="yellow">笹で包んだもちもちご飯、10個で40バーツ、1個16円です</span></h2>
 <a href="20240109_007.JPG" data-lightbox="abc"><img src="20240109_007.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">商品搬入のバイクは人混みをでもお構いなしで分け入ります<br>日本ではできませんね〜</span></h2>
 <a href="20240109_008.JPG" data-lightbox="abc"><img src="20240109_008.JPG" alt="サンプル画像" width="900" /></a>
