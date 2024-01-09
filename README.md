@@ -123,14 +123,47 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/01/09 、チェンライでの日々 !!!</marquee></span></h1>
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>>Thailand__７</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>><a href="https://torokoid.github.io/2024Jan_Thailand__7/">Thailand__7</a>>Thailand__8</p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 <br><p>タイ観光</p>
-<h2><span class="yellow">9日はチェンライの植物園を訪問！</span></h2>
-
+<h2><span class="yellow">9日はチェンライでの日常を記録します！</span></h2>
+<a href="20240109_001.JPG" data-lightbox="abc"><img src="20240109_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_002.JPG" data-lightbox="abc"><img src="20240109_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_003.JPG" data-lightbox="abc"><img src="20240109_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_004.JPG" data-lightbox="abc"><img src="20240109_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_005.JPG" data-lightbox="abc"><img src="20240109_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_006.JPG" data-lightbox="abc"><img src="20240109_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_007.JPG" data-lightbox="abc"><img src="20240109_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_008.JPG" data-lightbox="abc"><img src="20240109_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_009.JPG" data-lightbox="abc"><img src="20240109_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_010.JPG" data-lightbox="abc"><img src="20240109_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_011.JPG" data-lightbox="abc"><img src="20240109_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_012.JPG" data-lightbox="abc"><img src="20240109_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_013.JPG" data-lightbox="abc"><img src="20240109_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_014.JPG" data-lightbox="abc"><img src="20240109_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_015.JPG" data-lightbox="abc"><img src="20240109_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_016.JPG" data-lightbox="abc"><img src="20240109_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_017.JPG" data-lightbox="abc"><img src="20240109_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_018.JPG" data-lightbox="abc"><img src="20240109_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_019.JPG" data-lightbox="abc"><img src="20240109_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_020.JPG" data-lightbox="abc"><img src="20240109_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_021.JPG" data-lightbox="abc"><img src="20240109_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_022.JPG" data-lightbox="abc"><img src="20240109_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_023.JPG" data-lightbox="abc"><img src="20240109_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_024.JPG" data-lightbox="abc"><img src="20240109_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_025.JPG" data-lightbox="abc"><img src="20240109_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_026.JPG" data-lightbox="abc"><img src="20240109_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_027.JPG" data-lightbox="abc"><img src="20240109_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_028.JPG" data-lightbox="abc"><img src="20240109_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_029.JPG" data-lightbox="abc"><img src="20240109_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_030.JPG" data-lightbox="abc"><img src="20240109_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_031.JPG" data-lightbox="abc"><img src="20240109_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_032.JPG" data-lightbox="abc"><img src="20240109_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_033.JPG" data-lightbox="abc"><img src="20240109_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_034.JPG" data-lightbox="abc"><img src="20240109_034.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
