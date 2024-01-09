@@ -140,12 +140,13 @@ p.note { display: none; }
 <a href="20240109_008.JPG" data-lightbox="abc"><img src="20240109_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_009.JPG" data-lightbox="abc"><img src="20240109_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_010.JPG" data-lightbox="abc"><img src="20240109_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_013.JPG" data-lightbox="abc"><img src="20240109_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_011.JPG" data-lightbox="abc"><img src="20240109_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_012.JPG" data-lightbox="abc"><img src="20240109_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240109_013.JPG" data-lightbox="abc"><img src="20240109_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240109_016.JPG" data-lightbox="abc"><img src="20240109_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_014.JPG" data-lightbox="abc"><img src="20240109_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_015.JPG" data-lightbox="abc"><img src="20240109_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240109_016.JPG" data-lightbox="abc"><img src="20240109_016.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20240109_017.JPG" data-lightbox="abc"><img src="20240109_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_018.JPG" data-lightbox="abc"><img src="20240109_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_019.JPG" data-lightbox="abc"><img src="20240109_019.JPG" alt="サンプル画像" width="900" /></a>
