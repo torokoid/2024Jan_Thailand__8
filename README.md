@@ -130,39 +130,60 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 <br><p>タイ観光</p>
 <h2><span class="yellow">9日はチェンライでの日常を記録します！</span></h2>
+<h2><span class="yellow">真夏の陽射しは、<br>夏休みに田舎のおじいちゃんのうちに遊びに行ったことを思い起こさせます</span></h2>
 <a href="20240109_001.JPG" data-lightbox="abc"><img src="20240109_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_002.JPG" data-lightbox="abc"><img src="20240109_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_003.JPG" data-lightbox="abc"><img src="20240109_003.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">鉢植えが一度折れて、接地したところから根付いて再生しました</span></h2>
 <a href="20240109_004.JPG" data-lightbox="abc"><img src="20240109_004.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">チェンライの市場に行きました</span></h2>
 <a href="20240109_005.JPG" data-lightbox="abc"><img src="20240109_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_006.JPG" data-lightbox="abc"><img src="20240109_006.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">笹で包んだもちもちご飯、10個で40バーツ、1個4円です</span></h2>
 <a href="20240109_007.JPG" data-lightbox="abc"><img src="20240109_007.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">商品搬入のバイクは人混みをでもお構いなしで分け入ります<br>日本ではできませんね〜</span></h2>
 <a href="20240109_008.JPG" data-lightbox="abc"><img src="20240109_008.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">これも日本にはない、モチモチとうもろこし</span></h2>
 <a href="20240109_009.JPG" data-lightbox="abc"><img src="20240109_009.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">かなり快適な気候で、ファッションはまちまち</span></h2>
 <a href="20240109_010.JPG" data-lightbox="abc"><img src="20240109_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">市場のお隣にある酒屋さん</span></h2>
 <a href="20240109_013.JPG" data-lightbox="abc"><img src="20240109_013.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">飾られてる絵やオブジェが個性的です</span></h2>
 <a href="20240109_011.JPG" data-lightbox="abc"><img src="20240109_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_012.JPG" data-lightbox="abc"><img src="20240109_012.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店主のヘアスタイルも個性的</span></h2>
 <a href="20240109_016.JPG" data-lightbox="abc"><img src="20240109_016.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">街中の混雑ぶりはアジアンチック</span></h2>
 <a href="20240109_014.JPG" data-lightbox="abc"><img src="20240109_014.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">女子高生たちの異様な細さは、栄養状態の日本との違い？</span></h2>
 <a href="20240109_015.JPG" data-lightbox="abc"><img src="20240109_015.JPG" alt="サンプル画像" width="900" /></a>
-
+<h2><span class="yellow">雑貨屋さんにもお邪魔します</span></h2>
 <a href="20240109_017.JPG" data-lightbox="abc"><img src="20240109_017.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">商品のディスプレイがおおらかですね〜</span></h2>
 <a href="20240109_018.JPG" data-lightbox="abc"><img src="20240109_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お花コーナーはなぜか全部造花でした</span></h2>
 <a href="20240109_019.JPG" data-lightbox="abc"><img src="20240109_019.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">現地在住の白人さん達は、ヘルメット、サングラス着用です</span></h2>
 <a href="20240109_020.JPG" data-lightbox="abc"><img src="20240109_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_021.JPG" data-lightbox="abc"><img src="20240109_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_022.JPG" data-lightbox="abc"><img src="20240109_022.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240109_023.JPG" data-lightbox="abc"><img src="20240109_023.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">陽射しがやや傾き始めました</span></h2>
 <a href="20240109_024.JPG" data-lightbox="abc"><img src="20240109_024.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">遠方より訪問者多数</span></h2>
+<a href="20240109_023.JPG" data-lightbox="abc"><img src="20240109_023.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">本日の晩餐会スタート</span></h2>
 <a href="20240109_034.JPG" data-lightbox="abc"><img src="20240109_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_026.JPG" data-lightbox="abc"><img src="20240109_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_027.JPG" data-lightbox="abc"><img src="20240109_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_028.JPG" data-lightbox="abc"><img src="20240109_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_029.JPG" data-lightbox="abc"><img src="20240109_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_030.JPG" data-lightbox="abc"><img src="20240109_030.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">仏教、キリスト教、イスラム教、神道、などなど多信仰な晩餐会です</span></h2>
 <a href="20240109_031.JPG" data-lightbox="abc"><img src="20240109_031.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">イスラム教メンバーのお皿は、スペシャル配膳です</span></h2>
 <a href="20240109_032.JPG" data-lightbox="abc"><img src="20240109_032.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">夕暮れ空が綺麗に焼けました</span></h2>
 <a href="20240109_033.JPG" data-lightbox="abc"><img src="20240109_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240109_025.JPG" data-lightbox="abc"><img src="20240109_025.JPG" alt="サンプル画像" width="900" /></a>
 
